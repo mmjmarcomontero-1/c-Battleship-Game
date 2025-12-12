@@ -11,6 +11,11 @@ A simple Battleship-style game written in C++ demonstrating:
 
 ## 🛠️ How to Compile
 
+To compile the game on any C++ compiler:
+
+```bash
+g++ main.cpp functions.cpp -o battleship
+./battleship
 
 ---
 
